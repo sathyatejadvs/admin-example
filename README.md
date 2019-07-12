@@ -1,24 +1,8 @@
-# README
+# Active Admin
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Active Admin is a Ruby on Rails framework for creating elegant backends for website administration.
 
-Things you may want to cover:
+## Greatness
+1. Creates good-looking administration interfaces.
+2. Build a DSL for developers and an interface for businesses.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
